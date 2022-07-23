@@ -1,0 +1,23 @@
+{
+  "name": "uw-challenege-09-readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varthara/UW-Challenege-09-readMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varthara/UW-Challenege-09-readMe/issues"
+  },
+  "homepage": "https://github.com/Varthara/UW-Challenege-09-readMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
