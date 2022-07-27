@@ -1,7 +1,7 @@
 # ReadMe Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-ReadMe Generator for projects
+This is a ReadMe generator
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
@@ -10,14 +10,14 @@ ReadMe Generator for projects
 5. [Tests](#tests)
 6. [Questions](#questions)
 ## Installation
-Installation instructions: No instructions.
+Installation instructions: Node is required. Download and run "npm install in the terminal"
 ## Usage
-None
+To run the install application, use "node index.js" in the command line.
 ## Licenses
 This project is licensed under the MIT license.
 ## Contributing
-NA.
+UW Coding Boot Camp.
 ## Tests
 NA
 ## Questions
-Questions can be directed to [email](zane.sharif@gmail.com). For the developer's Github please refer to: [Github](https://github.com/https://github.com/Varthara) or [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/zane-sharif-486b15152/).
+Questions can be directed to [email](Zane.Sharif@gmail.com). For the developer's Github please refer to: [Github](https://github.com/https://github.com/varthara) or [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/zane-sharif-486b15152/ ).

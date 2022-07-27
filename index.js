@@ -45,7 +45,7 @@ ${answers.contribute}.
 ## Tests
 ${answers.tests}
 ## Questions
-Questions can be directed to [email](${answers.email}). For the developer's Github please refer to: [Github](https://github.com/${answers.github}) or [LinkedIn](https://linkedin.com/in/${answers.linkedin}).`,
+Questions can be directed to [email](${answers.email}). For the developer's Github please refer to: [Github](${answers.github}) or [LinkedIn](${answers.linkedin}).`,
 (err) => err ? console.log(err) : console.log('Success'))}
 // Inquirer questions to recieve user input. 
 inquirer
